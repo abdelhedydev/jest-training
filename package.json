@@ -1,0 +1,15 @@
+{
+  "name": "jestlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "abdelhedi hlel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jest": "^23.6.0"
+  }
+}
